@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lahari-Kanuparthy
+- 👋 Hi, I’m @Lahari
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on ...
